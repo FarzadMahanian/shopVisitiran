@@ -1,0 +1,633 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-27 07:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: 404.php:16
+msgid "404"
+msgstr ""
+
+#: 404.php:17
+msgid "Sorry!"
+msgstr ""
+
+#: 404.php:18
+msgid "The Page you are looking for does not exist."
+msgstr ""
+
+#: 404.php:19
+msgid "Home page"
+msgstr ""
+
+#: 404.php:20
+msgid "Previous page"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:49
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:52
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:53
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page"
+msgstr ""
+
+#: inc/custom-functions.php:52
+msgid "Primary"
+msgstr ""
+
+#: inc/custom-functions.php:276
+msgid "Name*"
+msgstr ""
+
+#: inc/custom-functions.php:278
+msgid "Email*"
+msgstr ""
+
+#: inc/custom-functions.php:280
+msgid "Website"
+msgstr ""
+
+#: inc/custom-functions.php:295
+msgid "Comment"
+msgstr ""
+
+#: inc/custom-functions.php:297
+msgid "Submit"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/extras.php:14 inc/extras.php:39
+msgid ", "
+msgstr ""
+
+#. %s: post title
+#: inc/extras.php:23
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/extras.php:23
+msgid "1 Comment"
+msgstr ""
+
+#: inc/extras.php:23
+msgid "% Comments"
+msgstr ""
+
+#: inc/extras.php:41
+#, php-format
+msgid "Tags:  %1$s"
+msgstr ""
+
+#. %s: Name of current post
+#: inc/extras.php:48
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/extras.php:108
+msgid "<<"
+msgstr ""
+
+#: inc/extras.php:109
+msgid ">>"
+msgstr ""
+
+#: inc/extras.php:110
+msgid "Page"
+msgstr ""
+
+#. $id
+#: inc/metabox.php:13
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/metabox.php:23
+msgid "Right sidebar (default)"
+msgstr ""
+
+#: inc/metabox.php:28
+msgid "No sidebar"
+msgstr ""
+
+#: inc/metabox.php:40
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#: inc/template-functions.php:239
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: inc/template-functions.php:352
+msgid "&copy; Copyright "
+msgstr ""
+
+#: inc/template-functions.php:355
+msgid "Wedding Band by Rara Theme."
+msgstr ""
+
+#: inc/template-functions.php:356
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#: inc/template-functions.php:356
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: sections/about.php:8 sections/blog.php:56 sections/feature.php:68
+#: template-parts/content.php:44 inc/customizer/home/about.php:62
+msgid "Read More"
+msgstr ""
+
+#: sections/banner.php:8 inc/customizer/home/slider.php:120
+msgid "View More"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:29 template-parts/content-single.php:33
+#: template-parts/content.php:37
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single.php:28 template-parts/content.php:31
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/customizer/customizer.php:18
+msgid "Choose Post"
+msgstr ""
+
+#: inc/customizer/customizer.php:26
+msgid "Choose page"
+msgstr ""
+
+#: inc/customizer/customizer.php:42
+msgid "Choose Category"
+msgstr ""
+
+#: inc/customizer/default.php:17
+msgid "Default Settings"
+msgstr ""
+
+#: inc/customizer/default.php:18
+msgid "Default section provided by WordPress customizer"
+msgstr ""
+
+#: inc/customizer/home.php:17
+msgid "Home Page Settings"
+msgstr ""
+
+#: inc/customizer/home.php:18
+msgid "Customize Home Page Settings"
+msgstr ""
+
+#: inc/customizer/info.php:12
+msgid "Information Links"
+msgstr ""
+
+#: inc/customizer/info.php:33
+msgid ""
+"<strong>Instruction for how to setup Home Page in Wedding Band Theme</strong>"
+"<br/>1. Go to Pages and create a new page (Title can be anything. For "
+"example, Home )<br/>\n"
+"2. In right column and under Page Attributes, choose \"Home Page\" "
+"template<br/>\n"
+"3. Click on Publish<br/>\n"
+"4. Go to Appearance-> Customize -> Default Settings -> Static Front Page<br/>"
+"\n"
+"5. Select A static page<br/>\n"
+"6. Under Front Page, select the page that you created in the step 1<br/>\n"
+"7. Save changes"
+msgstr ""
+
+#: inc/customizer/info.php:45
+msgid "Need help?"
+msgstr ""
+
+#: inc/customizer/info.php:46
+msgid "View demo"
+msgstr ""
+
+#: inc/customizer/info.php:46 inc/customizer/info.php:47
+#: inc/customizer/info.php:48 inc/customizer/info.php:49
+#: inc/customizer/info.php:50 inc/customizer/info.php:51
+msgid "here"
+msgstr ""
+
+#: inc/customizer/info.php:47
+msgid "View documentation"
+msgstr ""
+
+#: inc/customizer/info.php:48
+msgid "Theme info"
+msgstr ""
+
+#: inc/customizer/info.php:49
+msgid "Support ticket"
+msgstr ""
+
+#: inc/customizer/info.php:50
+msgid "Rate this theme"
+msgstr ""
+
+#: inc/customizer/info.php:51
+msgid "More WordPress Themes"
+msgstr ""
+
+#: inc/customizer/info.php:56
+msgid "About Wedding Band"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/widget-popular-post.php:25
+msgid "RARA: Popular Post"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:26
+msgid "A Popular Post Widget"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:109
+#: inc/widgets/widget-recent-post.php:108
+#: inc/widgets/widget-social-links.php:96
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:114
+#: inc/widgets/widget-recent-post.php:113
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:120
+#: inc/widgets/widget-recent-post.php:119
+msgid "Show Post Thumbnail"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:125
+#: inc/widgets/widget-recent-post.php:124
+msgid "Show Post Date"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/widget-recent-post.php:25
+msgid "RARA: Recent Post"
+msgstr ""
+
+#: inc/widgets/widget-recent-post.php:26
+msgid "A Recent Post Widget"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/widget-social-links.php:25
+msgid "RARA: Social Links"
+msgstr ""
+
+#: inc/widgets/widget-social-links.php:26
+msgid "A Social Links Widget."
+msgstr ""
+
+#: inc/widgets/widget-social-links.php:55
+#: inc/widgets/widget-social-links.php:101
+msgid "Facebook"
+msgstr ""
+
+#: inc/widgets/widget-social-links.php:57
+#: inc/widgets/widget-social-links.php:106
+msgid "Twitter"
+msgstr ""
+
+#: inc/widgets/widget-social-links.php:59
+#: inc/widgets/widget-social-links.php:111
+msgid "Pinterest"
+msgstr ""
+
+#: inc/widgets/widget-social-links.php:61
+msgid "Linkedin"
+msgstr ""
+
+#: inc/widgets/widget-social-links.php:63
+#: inc/widgets/widget-social-links.php:121
+msgid "Google Plus"
+msgstr ""
+
+#: inc/widgets/widget-social-links.php:65
+#: inc/widgets/widget-social-links.php:126
+msgid "Instagram"
+msgstr ""
+
+#: inc/widgets/widget-social-links.php:67
+#: inc/widgets/widget-social-links.php:131
+msgid "YouTube"
+msgstr ""
+
+#: inc/widgets/widget-social-links.php:116
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/widgets/widgets.php:12
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:14
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets/widgets.php:17
+msgid "Footer One"
+msgstr ""
+
+#: inc/widgets/widgets.php:19
+msgid "Add footer one widgets."
+msgstr ""
+
+#: inc/widgets/widgets.php:22
+msgid "Footer Two"
+msgstr ""
+
+#: inc/widgets/widgets.php:24
+msgid "Add footer two widgets."
+msgstr ""
+
+#: inc/widgets/widgets.php:27
+msgid "Footer Three"
+msgstr ""
+
+#: inc/widgets/widgets.php:29
+msgid "Add footer three widgets."
+msgstr ""
+
+#: inc/widgets/widgets.php:32
+msgid "Footer Four"
+msgstr ""
+
+#: inc/widgets/widgets.php:34
+msgid "Add footer four widgets."
+msgstr ""
+
+#: inc/widgets/widgets.php:37
+msgid "Google Map Widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:39
+msgid "Widget for Google map section( Use Text widget for Google Map )."
+msgstr ""
+
+#: inc/customizer/home/about.php:16
+msgid "About Section"
+msgstr ""
+
+#: inc/customizer/home/about.php:34
+msgid "Enable About Section"
+msgstr ""
+
+#: inc/customizer/home/about.php:51
+msgid "Select Page"
+msgstr ""
+
+#: inc/customizer/home/about.php:70
+msgid "Read More Text"
+msgstr ""
+
+#: inc/customizer/home/blog.php:13
+msgid "Blog Section"
+msgstr ""
+
+#: inc/customizer/home/blog.php:31
+msgid "Enable Blog Section"
+msgstr ""
+
+#: inc/customizer/home/blog.php:47
+msgid "Blog Section Title"
+msgstr ""
+
+#: inc/customizer/home/blog.php:62 inc/customizer/home/contactform.php:64
+#: inc/customizer/home/feature.php:66 inc/customizer/home/services.php:66
+msgid "Section Description"
+msgstr ""
+
+#: inc/customizer/home/contactform.php:14
+msgid "Contact Form Section"
+msgstr ""
+
+#: inc/customizer/home/contactform.php:32
+msgid "Enable contactform Section"
+msgstr ""
+
+#: inc/customizer/home/contactform.php:48 inc/customizer/home/feature.php:50
+#: inc/customizer/home/services.php:50
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer/home/contactform.php:79
+msgid "Address"
+msgstr ""
+
+#: inc/customizer/home/contactform.php:94
+msgid "Email"
+msgstr ""
+
+#: inc/customizer/home/contactform.php:109
+msgid "Phone Number"
+msgstr ""
+
+#: inc/customizer/home/contactform.php:126
+msgid "Contact Form"
+msgstr ""
+
+#: inc/customizer/home/contactform.php:128
+msgid ""
+"Enter the Contact Form Shortcode. Ex. [contact-form-7 id=\"186\" "
+"title=\"Google contact\"]"
+msgstr ""
+
+#: inc/customizer/home/feature.php:16
+msgid "Featured Post Section"
+msgstr ""
+
+#: inc/customizer/home/feature.php:34
+msgid "Enable Featured Post Section"
+msgstr ""
+
+#: inc/customizer/home/feature.php:82
+msgid "Choose Post Category"
+msgstr ""
+
+#: inc/customizer/home/map.php:15
+msgid "Google Map Section"
+msgstr ""
+
+#: inc/customizer/home/map.php:33
+msgid "Enable Google map Section"
+msgstr ""
+
+#: inc/customizer/home/services.php:16
+msgid "Service Section"
+msgstr ""
+
+#: inc/customizer/home/services.php:34
+msgid "Enable Service Section"
+msgstr ""
+
+#: inc/customizer/home/services.php:83
+msgid "Post One"
+msgstr ""
+
+#: inc/customizer/home/services.php:101
+msgid "Post Two"
+msgstr ""
+
+#: inc/customizer/home/services.php:119
+msgid "Post Three"
+msgstr ""
+
+#: inc/customizer/home/services.php:137
+msgid "Post Four"
+msgstr ""
+
+#: inc/customizer/home/slider.php:16
+msgid "Slider Section"
+msgstr ""
+
+#: inc/customizer/home/slider.php:34
+msgid "Enable Slider Section"
+msgstr ""
+
+#: inc/customizer/home/slider.php:52
+msgid "Enable Slider Auto Transition"
+msgstr ""
+
+#: inc/customizer/home/slider.php:70
+msgid "Enable Slider Loop"
+msgstr ""
+
+#: inc/customizer/home/slider.php:88
+msgid "Enable Slider Caption"
+msgstr ""
+
+#: inc/customizer/home/slider.php:106
+msgid "Choose Slider Animation"
+msgstr ""
+
+#: inc/customizer/home/slider.php:110
+msgid "Fade"
+msgstr ""
+
+#: inc/customizer/home/slider.php:111
+msgid "Slide"
+msgstr ""
+
+#: inc/customizer/home/slider.php:128
+msgid "Readmore Text"
+msgstr ""
+
+#: inc/customizer/home/slider.php:146
+msgid "Choose Slider Category"
+msgstr ""
+
+#: inc/customizer/home/story.php:16
+msgid "Story Section"
+msgstr ""
+
+#: inc/customizer/home/story.php:34
+msgid "Enable story Section"
+msgstr ""
+
+#: inc/customizer/home/story.php:52
+msgid "Select Story Post"
+msgstr ""
+
+#. Name of the theme
+msgid "Wedding Band"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Wedding Band is an elegantly designed WordPress theme for wedding websites. "
+"Wedding Band has been created as a solution for couples or wedding planners "
+"in need of a solid, easy to use and highly effective platform for putting "
+"together amazingly stylish wedding websites within minutes, Wedding band has "
+"been carefully crafted with attention to detail in every single nook and "
+"cranny to ensure you can build a perfectly visually appealing website using "
+"the theme. This exceptional and multipurpose template is customizable, well-"
+"organized and equipped with extraordinary features that you can use for "
+"building a website for your wedding. The theme is SEO friendly with "
+"optimized codes, which make it easy for your site to rank on Google and "
+"other search engines. The theme is rigorously tested and optimized for speed "
+"and faster page load time and has a secure and clean code. The theme is also "
+"translation ready. Designed with visitor engagement in mind, Wedding Band "
+"helps you to easily and intuitively create beautiful and appealing websites. "
+"Check the demo at https://raratheme.com/preview/wedding-band/, documentation "
+"at https://raratheme.com/documentation/wedding-band/, and get support at "
+"https://raratheme.com/support-ticket/."
+msgstr ""
+
+#. URI of the theme
+msgid "http://raratheme.com/wordpress-themes/wedding-band/"
+msgstr ""
+
+#. Author of the theme
+msgid "Rara Theme"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://raratheme.com/"
+msgstr ""

@@ -1,0 +1,243 @@
+/*
+ Theme Name:   NovelPink
+ Theme URI:    http://www.themehunk.com/product/novelpink-one-page-wordpress-theme/
+ Description:  The NovelPink One Page Responsive Theme for WordPress is simple and beautiful theme with live customizer. Edit and check changes instantly. NovelPink Theme supports Six widget areas (two in the sidebar, four in the footer) and featured images (thumbnails for gallery, blog posts). It has multiple useful section (services, testimonial, WooCommerce, pricing, recent post, team, contact us). Contact section with lead capture functionality. This free theme is very helpful for entrepreneur to showcase their business features. Also this single page theme is very helpful for photography site. Drag and drop section scrolling and woo-commerce compatible.
+ Author:       ThemeHunk Team
+ Author URI:   http://www.themehunk.com/
+ Template:     novellite
+ Version:      1.0.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags: two-columns, right-sidebar, custom-menu, editor-style, translation-ready, flexible-header, sticky-post, theme-options, featured-image-header, featured-images, e-commerce, photography
+ Text Domain: novelpink
+*/
+
+.navbar .sf-menu li:hover, .navbar .sf-menu li.sfHover {
+    background-color: #fe7bb5;
+}
+a {
+    color: #fe7bb5;
+}
+a:hover, a:focus, a:active, a.active {
+    color: #fe7bb5;
+}
+.theme-slider-button {
+    background: rgba(154, 205, 50, 0.69);
+}
+.NovelLite_slider .slider_overlay {
+      background-image: none;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.text-primary {
+    color: #fe7bb5;
+}
+.home_blog_content .post:hover .post_content_bottom{
+    background:#fe7bb5;
+}
+.btn-xl {
+ border-color: #29A131;
+    background-color: #29A131;
+}
+.bx-caption span p a {
+  color: #fe7bb5;
+}
+.team-member img{
+	-webkit-transition: all ease-in-out .2s;
+transition: all ease-in-out .2s;
+}
+.team-member img:hover{
+border-color:#fe7bb5;
+	-webkit-transition: all ease-in-out .2s;
+transition: all ease-in-out .2s;
+}
+.testimonial-wrapper{
+position:relative;
+}
+.testimonial-wrapper:before{
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+     transition: all 0.25s ease-in-out;
+    -webkit-transition: all 0.25s ease-in-out;
+    -moz-transition: all 0.25s ease-in-out;
+    z-index: 0;
+    background: rgba(254, 123, 181, 0.6);
+}
+.content-bar .post .post_title a:hover {
+    color: #fe7bb5;
+	}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus, .price-class .featured .header-package, .price-post:hover .plan-select, .navbar-shrink.navbar-default .navbar-toggle{
+background-color:#fe7bb5;
+}
+.navbar-default .navbar-toggle, .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    border-color: #fe7bb5;
+    background-color: #fe7bb5;
+}
+.navbar-shrink.navbar-default .navbar-toggle{
+border-color:#fe7bb5;
+}
+.paging li a.current {
+    background: #F8F8F8;
+    border: 1px solid #fe7bb5;
+}
+.paging li {
+    display: inline;
+}
+.paging li a {
+    display: inline;
+    padding: 5px 10px;
+    border: 1px solid #fe7bb5;
+    margin-left: 2px;
+    background: #fff;
+}
+.paging {
+    float: right;
+}
+.contact_section{
+position:relative;
+    background: url(images/main.jpeg) fixed;
+	}
+	.testimonial-wrapper {
+    background: url(images/main.jpeg) no-repeat fixed center;
+	}
+	.contact_section .leadform-show-form {
+       position: relative;
+}
+.contact_section:before{
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+     transition: all 0.25s ease-in-out;
+    -webkit-transition: all 0.25s ease-in-out;
+    -moz-transition: all 0.25s ease-in-out;
+    z-index: 0;
+    background: rgba(254, 123, 181, 0.6);
+}
+.contact_section .leadform-show-form input[type="submit"]{
+background:#29A131;
+border-color:#29A131;
+}
+.content-bar .post .post_meta .post_comment a:hover, #commentform a{
+color:#fe7bb5;
+}
+#commentform input#submit, ol.commentlist li.comment .reply a {
+    background: #29a131;
+}
+#commentform input#submit:hover {
+    background: #19751f;
+}
+#commentform input#submit, ol.commentlist li.comment .comment-author .avatar{
+border-color: #19751f;
+}
+#move-to-top{
+    background: rgb(255, 81, 158);
+	}
+	.woocommerce span.onsale, .woocommerce-page span.onsale {
+      background-color: #fe7bb5;
+}
+.woocommerce #content input.button, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce-page #content input.button, .woocommerce-page #respond input#submit, .woocommerce-page a.button, .woocommerce-page button.button, .woocommerce-page input.button, .woocommerce #content input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce-page #content input.button.alt, .woocommerce-page #respond input#submit.alt, .woocommerce-page a.button.alt, .woocommerce-page button.button.alt, .woocommerce-page input.button.alt, .woocommerce ul.products li.product a.button, .woocommerce.archive ul.products li.product a.button, .woocommerce-page.archive ul.products li.product a.button {
+    background-color: #fe7bb5;
+}
+.main-slider-button :hover  a{
+    color:#C8A567;
+}
+.theme-slider-button{
+    color:#C8A567;
+	background: none;
+    padding: 0; 
+     border: none; 
+}
+.main-slider-button  {
+    cursor: pointer;
+        -webkit-transition: all ease-in-out .2s;
+    transition: all ease-in-out .2s;
+}
+.main-slider-button  {
+    margin: 25px 0;
+    background-color: #fe7bb5;
+    border: 1px solid #fe7bb5;
+    border-radius: 1px;
+    color: rgba(255, 255, 255, 1);
+    cursor: pointer;
+    padding: 23px 88px;
+    display: inline-block;
+    letter-spacing: 1px;
+    position: relative;
+    overflow: hidden;
+    line-height: 24px;
+}
+.main-slider-button :before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 15%;
+    bottom: 15%;
+    left: 50%;
+    right: 50%;
+    background-color: #C8A567;
+    border-left: 2px solid rgba(255, 255, 255, 0.78);
+    border-right: 2px solid rgba(255, 255, 255, 0.78);
+    opacity: 0;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    -webkit-transition-delay: 0.3s;
+    transition-delay: 0.3s;
+}
+.theme-slider-button{
+    font-family: open sans;
+    position: absolute;
+    z-index: 99;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    padding-top:10px;
+    padding-bottom:10px;
+    text-transform: uppercase;
+    font-size: 15px;
+    color:#fff;
+}
+.main-slider-button :hover{
+  color: #ffffff;
+  -webkit-animation: flashText 0.5s;
+  animation: flashText 0.5s;
+  background:none;
+}
+.main-slider-button :hover:before{
+  left: 10px;
+  right: 10px;
+  background-color: rgba(255, 255, 255, 0.1);
+  opacity: 1;
+}
+@-webkit-keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
+@media (min-width: 992px){
+#parallax_move .layer {
+    height: 100vh!important;
+}
+.header-content-wrap {
+   height: 100vh;
+}
+}
